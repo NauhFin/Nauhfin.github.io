@@ -1,0 +1,19 @@
+body{
+	background-color: rgb(185, 255, 33)
+			}
+p{
+	border-style: ridge;
+	border-width 5px;
+	border-radius: 4px;
+	padding: 2px;
+}
+div.a{
+	text-align: center;
+	ul.myUL{
+		display: inline-block;
+		text-align: left;
+	}
+	u{
+		text-decoration-style: wavy;
+	}
+}
